@@ -5,4 +5,4 @@
   Q5: What are the most optmial skills to learn?
 
   Optimal: High Demand and High Paying
-  Role: Business Analyst
+  Role: Data Analyst
