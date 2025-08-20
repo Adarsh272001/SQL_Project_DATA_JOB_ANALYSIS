@@ -12,9 +12,8 @@ SQL queries: [project_sql folder](/project_sql/)
 4. What are the **top skills based on salary** for my role?
 5. What are the most **optmial skills** to learn?
 
-Optimal: High Demand and High Paying
-
-Role: Data Analyst
+**Optimal: High Demand and High Paying
+Role: Data Analyst**
 
 link:[preview.sql](/project_sql/preview.sql)
 
