@@ -17,8 +17,9 @@ Role: Data Analyst**
 
 link:[preview.sql](/project_sql/preview.sql)
 
-#Tools used
-- **SQL**: Allowing me to query the data base and find critical insights
+#Tools used  
+
+-**SQL**: Allowing me to query the data base and find critical insights
 
 -**PostgreSQL**: Database management sustem ideal for handling job postings data  
 
