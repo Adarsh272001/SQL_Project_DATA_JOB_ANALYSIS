@@ -6,11 +6,11 @@ SQL queries: [project_sql folder](/project_sql/)
 
 # Questions I answered 
 
-1. What are the Top-paying jobs for my role?
-2. What are the skills required for these top-paying role?
-3. What are the most in-demand skills for my role?
-4. What are the top skills based on salary for my role?
-5. What are the most optmial skills to learn?
+1. What are the **Top-paying jobs** for my role?
+2. What are the **skills** required for these **top-paying role**?
+3. What are the most **in-demand skills** for my role?
+4. What are the **top skills based on salary** for my role?
+5. What are the most **optmial skills** to learn?
 
 Optimal: High Demand and High Paying
 
