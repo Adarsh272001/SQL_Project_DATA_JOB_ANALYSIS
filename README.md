@@ -18,10 +18,10 @@ Role: Data Analyst**
 link:[preview.sql](/project_sql/preview.sql)
 
 #Tools used
-- SQL: Allowing me to query the data base and find critical insights
--PostgreSQL: Database management sustem ideal for handling job postings data
--Visual Studio Code: As an IDE conncected with the database for executing SQL queries
--Git and GitHub: Essential for version control and sharing my SQL project 
+- **SQL**: Allowing me to query the data base and find critical insights
+-**PostgreSQL**: Database management sustem ideal for handling job postings data
+-**Visual Studio Code**: As an IDE conncected with the database for executing SQL queries
+-**Git and GitHub**: Essential for version control and sharing my SQL project 
 
 # Analysis
 Each query in this project is aimed at investigationg specific aspect of the Data Analyst roles available in the job market.
